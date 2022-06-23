@@ -1,2 +1,2 @@
-# Killer Multitool
+# Sanity Multitool
  A simple batch multitool.
